@@ -1,0 +1,20 @@
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\bin\Debug\projedeneme3.exe.config
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\bin\Debug\projedeneme3.exe
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\bin\Debug\projedeneme3.pdb
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csprojAssemblyReference.cache
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.Form1.resources
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.Properties.Resources.resources
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.exe
+C:\Users\Görkem\Desktop\nesne proje\projedeneme3\projedeneme3\obj\Debug\projedeneme3.pdb
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\bin\Debug\projedeneme3.exe.config
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\bin\Debug\projedeneme3.exe
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\bin\Debug\projedeneme3.pdb
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csproj.AssemblyReference.cache
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.Form1.resources
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.Properties.Resources.resources
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csproj.GenerateResource.cache
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.csproj.CoreCompileInputs.cache
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.exe
+C:\Users\Görkem\Desktop\market kontrol programı\projedeneme3\projedeneme3\obj\Debug\projedeneme3.pdb
